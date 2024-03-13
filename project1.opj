@@ -1,0 +1,426 @@
+(ExpressProject "Project1"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\cadence\spb_16.6\tools\capture\library\transistor.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\transistor.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\amplifier.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\amplifier.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\arithmetic.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\arithmetic.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\atod.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\atod.olb"))
+      (File
+         "c:\cadence\spb_16.6\tools\capture\library\busdrivertransceiver.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "c:\cadence\spb_16.6\tools\capture\library\busdrivertransceiver.olb"))
+      (File "C:\Users\marsh9\Documents\CAPSYM.OLB"
+        (Type "Schematic Library")
+        (DisplayName "C:\Users\marsh9\Documents\CAPSYM.OLB"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\connector.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\connector.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\counter.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\counter.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\discrete.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\discrete.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\dram.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\dram.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\electromechanical.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "c:\cadence\spb_16.6\tools\capture\library\electromechanical.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\fifo.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\fifo.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\filter.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\filter.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\fpga.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\fpga.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\gate.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\gate.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\latch.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\latch.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\linedriverreceiver.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "c:\cadence\spb_16.6\tools\capture\library\linedriverreceiver.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\mechanical.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\mechanical.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\microcontroller.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "c:\cadence\spb_16.6\tools\capture\library\microcontroller.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\microprocessor.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "c:\cadence\spb_16.6\tools\capture\library\microprocessor.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\misc.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\misc.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\misc2.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\misc2.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\misc3.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\misc3.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\misclinear.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\misclinear.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\miscmemory.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\miscmemory.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\miscpower.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\miscpower.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\muxdecoder.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\muxdecoder.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\opamp.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\opamp.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\passivefilter.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "c:\cadence\spb_16.6\tools\capture\library\passivefilter.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\pld.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\pld.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\prom.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\prom.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\regulator.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\regulator.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\shiftregister.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "c:\cadence\spb_16.6\tools\capture\library\shiftregister.olb"))
+      (File "c:\cadence\spb_16.6\tools\capture\library\sram.olb"
+        (Type "Schematic Library")
+        (DisplayName "c:\cadence\spb_16.6\tools\capture\library\sram.olb")))
+    (NoModify)
+    (File ".\project1.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\project1.dsn"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "TRUE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File "E:\Tolu\Library\PROJECT1.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "E:\TOLU\LIBRARY\PROJECT1\ALLEGRO")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\PROJECT1.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "E:\TOLU\LIBRARY\PROJECT1.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File "E:\TOLU\LIBRARY\PROJECT1.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\project1.drc"
+      (Type "Report")
+      (DisplayName ".\project1.drc"))
+    (File ".\project1\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\project1\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\project1\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (Sort User)
+    (File ".\project1_core_eng bill of materials.bom"
+      (Type "Report")
+      (DisplayName "PROJECT1_CORE_ENG BILL OF MATERIALS.BOM"))
+    (File ".\project1.bom"
+      (Type "Report")
+      (DisplayName ".\project1.bom")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("SW TACT-SPST-2"
+      (FullPartName "SW TACT-SPST-2.Normal")
+      (LibraryName "F:\PROJ1\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW DIP-12"
+      (FullPartName "SW DIP-12.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (TACT2150
+      (FullPartName "TACT2150.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 15X2"
+      (FullPartName "HEADER 15X2.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 14X2"
+      (FullPartName "HEADER 14X2.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR
+      (FullPartName "CAPACITOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (82C55
+      (FullPartName "82C55.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    (16L8
+      (FullPartName "16L8.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PLD.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (74LS244
+      (FullPartName "74LS244.Normal")
+      (LibraryName "F:\PROJ1\LIBRARY\BUSDRIVERTRANSCEIVER.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("SW DIP-8"
+      (FullPartName "SW DIP-8.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW DIP-10"
+      (FullPartName "SW DIP-10.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OR2
+      (FullPartName "OR2.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (8086
+      (FullPartName "8086.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MICROPROCESSOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\project1.dsn")
+      (Path "Design Resources" ".\project1.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 475"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1475 156 680")
+        (Scroll "-136 0")
+        (Zoom "103")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "8 DIP switches"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1501 182 706")
+        (Scroll "-150 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "8 LEDs"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1527 208 732")
+        (Scroll "-136 7")
+        (Zoom "103")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "8086 AND CLOCK"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 234 1553 234 758")
+        (Scroll "-150 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "8254"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1319 0 524")
+        (Scroll "-150 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "8255"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1345 26 550")
+        (Scroll "-150 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "8259"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1371 52 576")
+        (Scroll "719 402")
+        (Zoom "148")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "8279"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1397 78 602")
+        (Scroll "-150 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "BUFFERING/DEMULTIPLEXING"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1423 104 628")
+        (Scroll "-150 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "LED"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1449 130 654")
+        (Scroll "-150 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POWERBLOCK"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1475 156 680")
+        (Scroll "0 10")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SRAM AND CMOS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1501 182 706")
+        (Scroll "-150 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\HARDWARE PROJECT\PROJECT1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "UART")))
+  (MPSSessionName "marsh9")
+  (ISPCBBASICLICENSE "false"))
