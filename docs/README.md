@@ -1,48 +1,17 @@
 ﻿# <a name="_hlk531429488"></a><a name="_toc513724911"></a><a name="_toc513843248"></a><a name="_toc513843343"></a><a name="_toc513930077"></a><a name="_toc531371865"></a><a name="_toc531537499"></a><a name="_toc531558828"></a>**8086 16-BIT MICROPROCESSOR	BOARD**
+Below is a user manual I created, for a 8086 Microprocessor board. I fully designed everything in OrCAD, meticulously crafting wire and header connections to the chips, followed by comprehensive error-checking during the board layout phase. Additionally, I programmed the 16L8 programmable logic chips and tested the board.
+User Manual
 
-User Manual	
-
-
-
-
-
-
-
-
-
-
-
-
-
-Authors:  Marshall Hageman and Toluwanimi Oyediran
+Authors:  Marshall Hageman
+          Toluwanimi Oyediran
 
 UNIVERSITY OF MARYLAND, BALITIMORE COUNTY
 
 
 Rev: -
-
 Published:  December 2, 2018
 
 
-
-
-**
-
-**
-
-**
-
-**
-
-**
-
-**
-
-**
-
-**
-
-**
 
 # **CONTENTS**
 [8086 16-Bit Microprocessor	Board	0](#_toc531558828)
